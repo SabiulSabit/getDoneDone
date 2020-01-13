@@ -1,0 +1,1773 @@
+
+body
+{
+    margin: 0;
+    overflow-x: hidden;
+}
+.redBackground
+{
+    width: 1370px;
+    height: 1600px;
+    background-color: rgb(162, 59, 42);
+}
+.redBackground1
+{   top: 250%;
+    width: 1350px;
+    height: 450px;
+    background-color: rgb(162, 59, 42);
+}
+.orangeBackground
+{
+    top: 320%;
+    width: 1350px;
+    height: 1050px;
+    background-color:rgb(242, 111, 33);
+}
+.lightYellowBackground
+{
+    top: 485%;
+    width: 1350px;
+    height: 850px;
+    background-color: rgb(254, 197, 82);
+}
+.lightBlueBackground
+{
+    top: 618.8%;
+    width: 1350px;
+    height: 950px;
+    background-color: rgb(109, 167, 155);
+}
+.violetBackground
+{
+    top: 768%;
+    width: 1350px;
+    height: 1150px;
+    background-color: rgb(117, 79, 126);
+}
+.darkVioletBackground
+{
+    top: 925%;
+    width: 1350px;
+    height: 500px;
+    background-color: rgb(43, 35, 45);
+}
+.topBar
+{
+    width: 1350px;
+    height: 50px;
+    background-color: rgb(149, 39, 21);
+}
+.topBarButtonBox
+{
+    top: 0.2%;
+    left: 8%;
+    width: 1250px;
+    height: 45px;
+    background-color: rgb(149, 39, 21);
+}
+.featuresButton
+{
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.supportButton
+{
+    left: 12%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.pricingButton
+{
+    left: 30%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.helpDocsButton
+{
+    left: 40%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.contactButton
+{
+    left: 52%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.blogButton
+{
+    left: 63%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.signInButton
+{
+    left: 71%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.getItNowButton
+{
+
+    left: 80%;
+    width: 150px;
+    height: 45px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+    border-color: Transparent;
+    background-color: rgb(86, 138, 128);
+}
+.getItNowButton:hover
+{
+    background-color: rgb(95, 168, 128);
+}
+.btn
+{}
+.btn:hover
+{
+    text-decoration: underline;
+}
+.logoCircle
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(242, 111, 34);
+    top: 10%;
+    left: 3%;
+}
+.tic1
+{
+    top: 24%;
+    left: 4.4%;
+    width: 4px;
+    height: 20px;
+    background-color: white;
+    transform: rotate(45deg);
+}
+.tic12
+{
+    top: 41%;
+    left: 3.7%;
+    width: 4px;
+    height: 6px;
+    background-color: white;
+    transform: rotate(-45deg);
+
+}
+.tic2
+{
+    top: 42%;
+    left: 5%;
+    width: 4px;
+    height: 20px;
+    background-color: white;
+    transform: rotate(45deg);
+}
+.tic21
+{
+    top: 59.8%;
+    left: 4.4%;
+    width: 4px;
+    height: 6px;
+    background-color: white;
+    transform: rotate(-45deg);
+
+}
+.triangle
+{
+    top: 3.1%;
+    width: 0;
+    height: 0;
+    border-top: 650px solid rgb(149, 39, 21);
+    border-left: 670px solid transparent;
+    border-right: 670px solid transparent;
+}
+.leftBox1
+{
+    top: 10%;
+    width:  300px;
+    height:  300px;
+    background-color: rgb(128, 32, 18);
+    transform:  rotate(45deg);
+}
+.leftBox12
+{
+    top: 12%;
+    left: 10%;
+    width: 290px;
+    height: 180px;
+    border-radius: 15%;
+    transform:  rotate(135deg);
+    background-color: rgb(255, 255, 255);
+}
+.leftBoxTriangle
+{
+    top: 84.5%;
+    left: 55%;
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 1px solid transparent;
+    border-top: 25px solid white;
+    transform:  rotate(225deg);
+
+}
+#koma1
+{
+    top: -10%;
+    left: 6%;
+     color: rgb(254, 197, 82);
+    font-size: 300px;
+}
+#koma2
+{
+    top: 38%;
+    left: 38%;
+    color: white;
+    font-size: 340px;
+    transform: rotate(180deg);
+}
+.leftBox2
+{
+    top: 15%;
+    left: 9.9%;
+    width:  250px;
+    height: 700px;
+    background-color: rgb(242, 111, 33);
+    transform:  rotate(45deg);
+}
+.leftBox3
+{
+    top: 35.15%;
+    left: 26.2%;
+    width:  250px;
+    height: 312px;
+    background-color: rgb(254, 197, 82);
+    transform:  rotate(45deg);
+}
+.leftBox4
+{
+    top: 22.5%;
+    left: 59%;
+    width:  300px;
+    height: 525px;
+    background-color: rgb(254, 197, 82);
+    transform:  rotate(45deg);
+    overflow: hidden;
+}
+.centerBoxBottom
+{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(140, 37, 20);
+    top: 47.6%;
+    left: 37.9%;
+    transform:  rotate(45deg);
+}
+.rightTriangle
+{
+    width: 0;
+    height: 0;
+    top: 27.6%;
+    left: 91.3%;
+    border-top: 100px solid transparent;
+    border-right: 100px solid rgb(140, 37, 20);
+    border-bottom: 100px solid transparent;
+}
+.rightUpperCircle
+{
+    top: 12%;
+    left:  80.5%;
+    height: 290px;
+    width: 290px;
+    border-radius: 50%;
+    background-color: rgb(242, 111, 33);
+    overflow: hidden;
+}
+.rightLowerCircle
+{
+    top: 37.5%;
+    left: 81.4%;
+    height: 270px;
+    width: 270px;
+    border-radius: 50%;
+    background-color: rgb(140, 37, 20);
+    overflow-y: hidden;
+}
+.rightBoxBottom
+{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(242, 111, 33);
+    top: 49.2%;
+    left: 68.1%;
+    transform:  rotate(45deg);
+}
+.centerBoxBottomTrangle
+{
+    top: 49%;
+    left: 49.5%;
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 1px solid transparent;
+    border-top: 25px solid rgb(242, 111, 33);
+    transform:  rotate(88deg);
+}
+.centerLowerBoxTringle
+{
+    width: 0;
+    height: 0;
+    top: 54.5%;
+    left: -5.3%;
+    border-top: 100px solid transparent;
+    border-right: 100px solid rgb(242, 111, 33);
+    border-bottom: 100px solid transparent;
+    transform:  rotate(-45deg);
+}
+.centerLowerBoxInner
+{
+    top: 20.5%;
+    left: 10%;
+    width: 200px;
+    height: 210px;
+    border-radius: 15%;
+    transform:  rotate(135deg);
+    background-color: rgb(242, 111, 33);
+}
+#Simplify
+{
+    top: 10%;
+    left: 42%;
+    color:  rgb(218, 169, 83);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: SansSerif, sans-serif;
+
+}
+.doneDoneText
+{
+    top: 9%;
+    left: 28%;
+    color:  rgb(255,255,255);
+    font-size: 65px;
+    text-align: center;
+    font-family: SansSerif, fantasy ;
+}
+
+#normal
+{
+    top: 22%;
+    left: 33%;
+    color:  rgb(218, 169, 83);
+    font-size: 18px;
+    text-align: center;
+    font-family: SansSerif, sans-serif;
+}
+.leftPage
+{
+    width: 150px;
+    height: 200px;
+    background-color: white;
+    top: 31%;
+    left: 19%;
+    overflow: hidden;
+}
+.leftPageBackground
+{
+    width: 150px;
+    height: 200px;
+    background-color: rgb(254, 197, 82);
+    top: 32%;
+    left: 22%;
+}
+.leftPageTriangle
+{
+    width: 0;
+    height: 0;
+    top: 30.8%;
+    left: 26.5%;
+    border-top: 30px solid transparent;
+    border-right: 30px solid rgb(140, 37, 20);
+    border-bottom: 50px solid transparent;
+    transform:  rotate(-45deg);
+  /*  box-shadow: 10px 10px 10px black;*/
+}
+.leftFix
+{
+    width: 20px;
+    height: 20px;
+    top: 34%;
+    left: 30%;
+    background-color:rgb(254, 197, 82);
+}
+.leftPageUpperLine1
+{
+    width: 60px;
+    height: 4px;
+    left: 21%;
+    top: 32%;
+    background-color: rgb(242, 111, 33);
+}
+.leftPageUpperLine2
+{
+    width: 60px;
+    height: 4px;
+    left: 21%;
+    top: 33%;
+    background-color: rgb(242, 111, 33);
+}
+.leftPageUpperLine3
+ {
+     width: 60px;
+     height: 4px;
+     left: 21%;
+     top: 32.5%;
+     background-color: rgb(242, 111, 33);
+ }
+.leftPageDot1
+{
+    top: 35%;
+    left: 21%;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: rgb(149, 39, 21);
+}
+.leftPageLowerLine1
+{
+    width: 90px;
+    height: 3px;
+    top: 35.2%;
+    left: 22.5%;
+    background-color: rgb(242, 111, 33);
+}
+.leftPageDot2
+{
+    top: 37%;
+    left: 21%;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: rgb(149, 39, 21);
+}
+.leftPageLowerLine2
+{
+    width: 90px;
+    height: 3px;
+    top: 37.2%;
+    left: 22.5%;
+    background-color: rgb(242, 111, 33);
+}
+.leftPageDot3
+{
+    top: 39%;
+    left: 21%;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: rgb(149, 39, 21);
+}
+.leftPageLowerLine3
+{
+    width: 90px;
+    height: 3px;
+    top: 39.2%;
+    left: 22.5%;
+    background-color: rgb(242, 111, 33);
+}
+.leftPageLowerLine31
+{
+    width: 90px;
+    height: 3px;
+    top: 39.6%;
+    left: 22.5%;
+    background-color: rgb(242, 111, 33);
+}
+.leftPageDot4
+{
+    top: 41%;
+    left: 21%;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: rgb(149, 39, 21);
+}
+.leftPageLowerLine4
+{
+    width: 90px;
+    height: 3px;
+    top: 41.2%;
+    left: 22.5%;
+    background-color: rgb(242, 111, 33);
+}
+.leftPageLowerLine41
+{
+    width: 90px;
+    height: 3px;
+    top: 41.6%;
+    left: 22.5%;
+    background-color: rgb(242, 111, 33);
+}
+.leftPageLowerLine42
+{
+    width: 90px;
+    height: 3px;
+    top: 42%;
+    left: 22.5%;
+    background-color: rgb(242, 111, 33);
+}
+.leftPageBox1
+{
+    width: 54px;
+    height: 18px;
+    top: 30.9%;
+    left: 26.5%;
+    background-color: rgb(242, 111, 33);
+}
+.leftPageBox2
+{
+    width: 45px;
+    height: 30px;
+    top: 32%;
+    left: 27.6%;
+    background-color: rgb(254, 197, 82);
+}
+.leftFile1
+{
+    width: 270px;
+    height:180px;
+    top:  40%;
+    left: 29.9%;
+    background-color: rgb(149, 39, 21);
+}
+.leftFile2
+{
+    width: 250px;
+    height:165px;
+    top:  41.4%;
+    left: 31.4%;
+    background-color: rgb(242, 111, 33);
+}
+.leftFile3
+{
+    width: 25px;
+    height: 175px;
+    top: 40.8%;
+    left: 29.9%;
+    border-radius: 10px;
+    background-color:  rgb(149, 39, 21);
+}
+.leftFile4
+{
+    width: 80px;
+    height:  60px;
+    top: 44%;
+    left: 31.8%;
+    background-color: white;
+}
+.leftFile5
+{
+    top: 39.5%;
+    left: 34%;
+    border-bottom: 30px solid rgb(242, 111, 33);
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    height: 0;
+    width: 60px;
+}
+.insectBody
+{
+    top: 52%;
+    left: 73%;
+    border-radius: 50%;
+    width: 105px;
+    height: 180px;
+    background-color: rgb(254, 197, 82);
+}
+.insectHead
+{
+    top: 51.6%;
+    left: 74.1%;
+    width: 75px;
+    height: 35px;
+    background-color: rgb(149, 39, 21);
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom: 0;
+}
+.insectMiddleLine
+{
+    top: 53.3%;
+    left: 76.7%;
+    width: 3px;
+    height: 160px;
+    background-color: rgb(149, 39, 21);
+    box-shadow: 1px 1px 20px rgb(149, 39, 21);
+    /*background-image: linear-gradient(to right, rgb(149, 39, 21) ,rgb(169, 60, 41);*/
+}
+.insectMiddleLine2
+{
+    top: 53.3%;
+    left: 76.9%;
+    width: 7px;
+    height: 160px;
+    background-color: rgba(149, 39, 21,.4);
+    box-shadow: 1px 1px 20px rgb(149, 39, 21);
+
+}
+.insectMiddleLine3
+{
+    top: 53.3%;
+    left: 77.7%;
+    width: 3px;
+    height: 160px;
+    background-color: rgba(149, 39, 21,.2);
+    box-shadow: 1px 1px 20px rgb(149, 39, 21);
+}
+.insectLeftEye
+{
+    top: 52.5%;
+    left: 75%;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    background-color: white;
+}
+.insectRightEye
+{
+    top: 52.5%;
+    left: 77.5%;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    background-color: white;
+}
+.insectLeg1
+{
+    width: 150px;
+    height: 4px;
+    top: 55.3%;
+    left: 71.3%;
+    background-color: rgb(254, 197, 82);
+}
+.insectLeg2
+{
+    width: 150px;
+    height: 4px;
+    top: 57.3%;
+    left: 71.3%;
+    background-color: rgb(254, 197, 82);
+}
+.insectLeg3
+{
+    width: 150px;
+    height: 4px;
+    top: 59.3%;
+    left: 71.3%;
+    background-color: rgb(254, 197, 82);
+}
+.insectLegL1
+{
+    width: 4px;
+    height: 30px;
+    top: 53.6%;
+    left: 71.3%;
+    background-color: rgb(254, 197, 82);
+}
+.insectLegL3
+{
+    width: 4px;
+    height: 30px;
+    top: 59.3%;
+    left: 71.3%;
+    background-color: rgb(254, 197, 82);
+}
+.insectLegL2
+{
+    width: 4px;
+    height: 30px;
+    top: 53.6%;
+    left: 82%;
+    background-color: rgb(254, 197, 82);
+}
+.insectLegL4
+{
+    width: 4px;
+    height: 30px;
+    top: 59.3%;
+    left: 82%;
+    background-color: rgb(254, 197, 82);
+}
+.pencilBody1
+{
+    top: 40%;
+    left: 30%;
+    width: 40px;
+    height: 180px;
+    background-color: rgb(254, 197, 82);
+}
+.pencilBody2
+{
+    top: 40%;
+    left: 53%;
+    width: 40px;
+    height: 180px;
+    background-color: rgb(254, 197, 82);
+}
+.pencilWhitePart1
+{
+    width: 0;
+    height: 0;
+    top: 18%;
+    left: 30%;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 60px solid white;
+}
+.pencilWhitePart2
+{
+    width: 0;
+    height: 0;
+    top: 18%;
+    left: 53%;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 60px solid white;
+}
+.pencilOrangePart1
+ {
+     width: 0;
+     height: 0;
+     top: 18%;
+     left: 34.6%;
+     border-left: 7px solid transparent;
+     border-right: 7px solid transparent;
+     border-bottom: 20px solid rgb(242, 111, 33);
+ }
+.pencilOrangePart2
+{
+    width: 0;
+    height: 0;
+    top: 18%;
+    left: 57.6%;
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-bottom: 20px solid rgb(242, 111, 33);
+}
+.rightUpperCirclePage
+{
+    width: 160px;
+    height: 160px;
+    top: 25%;
+    left: 25%;
+    background-color: white;
+}
+.rightUpperCirclePageCorner1
+{
+    top: 62%;
+    left: 25.5%;
+    width: 0;
+    height: 0;
+    border-left: 35px solid transparent;
+    border-right: 35px solid transparent;
+    border-bottom: 35px solid rgb(149, 39, 21);
+    transform: rotate(45deg);
+}
+.rightUpperCirclePageCorner2
+{
+    top: 70.2%;
+    left: 16.9%;
+    width: 0;
+    height: 0;
+    border-left: 35px solid transparent;
+    border-right: 35px solid transparent;
+    border-bottom: 35px solid rgb(242, 111, 33);
+    transform: rotate(-135deg);
+}
+.rightUpperCircleLine1
+{
+    width: 13px;
+    height: 85px;
+    top: 35%;
+    left: 33%;
+    background-color: rgb(242, 111, 33);
+}
+.rightUpperCircleLine2
+{
+    width: 13px;
+    height: 85px;
+    top: 35%;
+    left: 48%;
+    background-color: rgb(242, 111, 33);
+}
+.rightUpperCircleLine3
+{
+    width: 13px;
+    height: 85px;
+    top: 35%;
+    left: 62%;
+    background-color: rgb(242, 111, 33);
+}
+.rightUpperCirclePageDot1
+{
+    top: 68%;
+    left: 47%;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: rgb(242, 111, 33);
+}
+.rightUpperCirclePageDot2
+{
+    top: 68%;
+    left: 61%;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: rgb(242, 111, 33);
+}
+.bigPage
+{
+    top: 15%;
+    left: 75%;
+    width: 300px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    transform: rotate(135deg);
+    overflow: hidden;
+}
+.bigPageTopBar
+{
+    top: 26.5%;
+    left: 48%;
+    width: 25px;
+    height: 60px;
+    transform: rotate(45deg);
+    background-color: rgb(242, 111, 33);
+}
+.bigPageHorizontalLine1
+{
+    width: 260px;
+    height: 5px;
+    left: 16%;
+    top: 35%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+
+}
+.bigPageHorizontalLine2
+{
+    width: 260px;
+    height: 5px;
+    left: 23%;
+    top: 39%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+
+}
+.bigPageHorizontalLine3
+{
+    width: 260px;
+    height: 5px;
+    left: 31%;
+    top: 43%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+}
+.bigPageHorizontalLine4
+{
+    width: 260px;
+    height: 5px;
+    left: 39%;
+    top: 47%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+}
+.bigPageHorizontalLine5
+{
+    width: 260px;
+    height: 5px;
+    left: 47%;
+    top: 51.5%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+}
+.bigPageHorizontalLine6
+{
+    width: 260px;
+    height: 5px;
+    left: 55%;
+    top: 56%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+}
+.bigPageHorizontalLine7
+{
+    width: 260px;
+    height: 5px;
+    left: 63%;
+    top: 60.5%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+}
+.bigPageHorizontalLine8
+{
+    width: 260px;
+    height: 5px;
+    left: 69%;
+    top: 64%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+}
+.bigPageVertical1
+{
+    width: 5px;
+    height: 320px;
+    left: 66.5%;
+    top: 44%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+}
+.bigPageVertical2
+{
+    width: 5px;
+    height: 320px;
+    left: 73.5%;
+    top: 39%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+}
+.bigPageVertical3
+{
+    width: 5px;
+    height: 320px;
+    left: 89%;
+    top: 30%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+}
+.bigPageVertical4
+{
+    width: 5px;
+    height: 320px;
+    left: 95%;
+    top: 27%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+}
+.bigPageVertical5
+{
+    width: 5px;
+    height: 320px;
+    left: 126.3%;
+    top: 9.5%;
+    background-color: rgb(254, 197, 82);
+    transform: rotate(135deg);
+}
+.img1
+{
+    border-radius: 30px;
+
+    top: -75%;
+    left: 55%;
+    width: 800px;
+}
+.img1BottomCover
+{
+    width: 700px;
+    height: 20px;
+    top: 68.3%;
+    left: 55%;
+    background-color: rgb(162, 59, 42);
+}
+.img1BottomCover1
+{
+    width: 5px;
+    height: 20px;
+    transform: rotate(-45deg);
+    top: 65.8%;
+    left: 55.3%;
+    background-color: rgb(162, 59, 42);
+
+}
+#lessNoise
+{
+    top: -48%;
+    left: 5%;
+    font-weight: bold;
+    color:  rgb(218, 169, 83);
+    font-size: 18px;
+    line-height: 17px;
+    font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.goodByeText
+{
+    top: -50%;
+    left: 5%;
+    font-size: 60px;
+    text-align: left;
+    color: white;
+    font-weight: 900;
+    line-height: 64px;
+    font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#normal1
+{
+    left: 5%;
+    top: -2%;
+    color:  rgb(218, 169, 83);
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.5;
+    font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+}
+#signUpImg
+{
+    top: 10%;
+    left: 60%;
+}
+#faceImg
+{
+    top: 28%;
+    left: 69%;
+}
+#codeImg
+{
+    top: 65%;
+    left: 50%;
+    width: 320px;
+    height: 320px;
+}
+.arrowLine1
+{
+    top: 40%;
+    left: -5%;
+    transform: rotate(-18deg);
+    width: 800px;
+    height: 40px;
+    background-color: rgb(227, 103, 31);
+}
+.arrowLine1Left
+{
+    width: 110px;
+    height: 40px;
+    transform: rotate(35deg);
+    border-radius: 0px 20px 20px 20px;
+    top: 26%;
+    left: 46%;
+    background-color: rgb(227, 103, 31);
+}
+.arrowLine1Right
+{
+    width: 110px;
+    height: 40px;
+    transform: rotate(-70deg);
+    border-radius: 20px 20px 0px 0px;
+    top: 32.5%;
+    left: 46.8%;
+    background-color: rgb(227, 103, 31);
+}
+.arrowLine2
+{
+    top: 43%;
+    left: -5%;
+    transform: rotate(5deg);
+    width: 900px;
+    height: 40px;
+    background-color: rgb(227, 103, 31);
+}
+.arrowLine2Left
+{
+    width: 120px;
+    height: 40px;
+    transform: rotate(55deg);
+    border-radius: 0px 20px 20px 20px;
+    top: 43%;
+    left: 55%;
+    background-color: rgb(227, 103, 31);
+}
+.arrowLine2Right
+{
+    width: 110px;
+    height: 40px;
+    transform: rotate(-60deg);
+    border-radius: 20px 20px 0px 0px;
+    top: 51%;
+    left: 55%;
+    background-color: rgb(227, 103, 31);
+}
+#simpleText
+{
+    top: 23%;
+    left: 5%;
+    font-weight: bold;
+    color:  rgb(251, 220, 157);
+    font-size: 18px;
+    line-height: 17px;
+    font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#easyText
+{
+    top: 23.5%;
+    left: 5%;
+    font-size: 60px;
+    text-align: left;
+    color: white;
+    font-weight: 900;
+    line-height: 64px;
+    font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#thereText
+{
+    left: 5%;
+    top: 44%;
+    color:  rgb(251, 220, 157);
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.5;
+    font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+}
+.lightYellowBox1
+{
+    width: 400px;
+    height: 125px;
+    top: 15%;
+    left: 62%;
+    border-radius: 20px 30px 20px 20px;
+    background-color: rgb(242, 111, 33);
+}
+.lightYellowBox1Upper
+{
+    width: 400px;
+    height: 90px;
+    top: 13%;
+    left: 62.1%;
+    border-radius: 350px;
+    transform: rotate(4deg);
+    background-color: rgb(242, 111, 33);
+}
+.withTexttriangle
+{
+    width: 0;
+    height: 0;
+    top: 27%;
+    left: 88%;
+    border-top: 25px solid transparent;
+    border-right: 25px solid rgb(242, 111, 33);
+    border-bottom: 30px solid transparent;
+    transform:  rotate(130deg);
+}
+#withText
+{
+    top: 18%;
+    left: 64%;
+    color: rgb(254, 197, 82);
+    font-size: 14px;
+    font-family: SansSerif, sans-serif;
+}
+#koma3
+{
+    top: 8%;
+    left: 64%;
+    color: rgb(247, 150, 37);
+    font-size: 250px;
+    transform: rotate(180deg);
+}
+#MoosylvaniaText
+{
+    top: 20%;
+    left: 84.3%;
+    font-size: 14px;
+    font-family: SansSerif, sans-serif;
+    font-weight: bold;
+    color: rgb(181, 77, 16);
+}
+#moosyImg
+{
+    top: 34%;
+    left: 87%;
+}
+.lightYellowBox2
+{
+    width: 360px;
+    height: 180px;
+    top: 43%;
+    left: 55%;
+    border-radius: 35px 50px 30px 30px;
+    background-color: rgb(242, 111, 33);
+}
+.lightYellowBox2Upper
+{
+    width: 360px;
+    height: 150px;
+    top: 41%;
+    left: 54.9%;
+    border-radius: 100px;
+    transform: rotate(5deg);
+    background-color: rgb(242, 111, 33);
+}
+.doneDonehasTexttriangle
+{
+    width: 0;
+    height: 0;
+    top: 56%;
+    left: 81%;
+    border-top: 25px solid transparent;
+    border-right: 25px solid rgb(242, 111, 33);
+    border-bottom: 30px solid transparent;
+    transform:  rotate(-45deg);
+}
+#ehousesImg
+{
+    top: 55%;
+    left: 85%;
+}
+#doneDonehasText
+{
+    top: 45%;
+    left: 57%;
+    color: rgb(254, 197, 82);
+    font-size: 14px;
+    font-family: SansSerif, sans-serif;
+}
+#koma4
+{
+    top: 36%;
+    left: 56%;
+    color: rgb(247, 150, 37);
+    font-size: 250px;
+    transform: rotate(180deg);
+}
+#houseText
+{
+    top: 56%;
+    left: 57%;
+    font-size: 14px;
+    font-family: SansSerif, sans-serif;
+    font-weight: bold;
+    color: rgb(181, 77, 16);
+}
+#whatText
+{
+    top: 23%;
+    left: 5%;
+    font-weight: bold;
+    color:  rgb(232, 108, 32);
+    font-size: 18px;
+    line-height: 17px;
+    font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#belovedText
+{
+    top: 23%;
+    left: 5%;
+    font-size: 60px;
+    text-align: left;
+    color: white;
+    font-weight: 900;
+    line-height: 64px;
+    font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#teamsText
+{
+    left: 5%;
+    top: 58%;
+    color:  rgb(231, 106, 41);
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.5;
+    font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+}
+#homelogosImg
+{
+    top: 72%;
+    left: 5%;
+}
+.lightYellowBox3
+{
+    width: 360px;
+    height: 180px;
+    top: 70%;
+    left: 55%;
+    border-radius: 35px 50px 40px 40px;
+    background-color: rgb(242, 111, 33);
+    transform: rotate(180deg);
+}
+.lightYellowBox3Upper
+{
+    width: 360px;
+    height: 150px;
+    top: 76%;
+    left: 55%;
+    border-radius: 100px;
+    transform: rotate(185deg);
+    background-color: rgb(242, 111, 33);
+}
+#koma5
+{
+    top: 65%;
+    left: 71%;
+    color: rgb(247, 150, 37);
+    font-size: 250px;
+}
+.doneDoneLikeTexttriangle
+{
+    width: 0;
+    height: 0;
+    top: 84%;
+    left: 81%;
+    border-top: 35px solid transparent;
+    border-right: 25px solid rgb(242, 111, 33);
+    border-bottom: 30px solid transparent;
+    transform:  rotate(-45deg);
+}
+#bigspaceshipImg
+{
+    top: 86%;
+    left: 85%;
+}
+#doneDoneLikeText
+{
+    top: 72%;
+    left: 57%;
+    color: rgb(254, 197, 82);
+    font-size: 14px;
+    font-family: SansSerif, sans-serif;
+}
+#mikeText
+{
+    top: 80%;
+    left:57%;
+    font-size: 14px;
+    font-family: SansSerif, sans-serif;
+    font-weight: bold;
+    color: rgb(181, 77, 16);
+}
+#tabletImg
+{
+    top: 10%;
+    left: 52%;
+}
+#phoneImg
+{
+    top: 49%;
+    left: 56%;
+}
+#pagehomeImg
+{
+    left: 5%;
+    top: 60%;
+}
+#captureText
+{
+    top: 21%;
+    left: 5%;
+    font-weight: bold;
+    color:  rgb(237, 220, 157);
+    font-size: 18px;
+    line-height: 17px;
+    font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#finishText
+{
+    top: 23%;
+    left: 5%;
+    font-size: 60px;
+    text-align: left;
+    color: white;
+    font-weight: 900;
+    line-height: 64px;
+    font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#doneDoneWorkText
+{
+    left: 5%;
+    top: 47%;
+    color:  rgb(251, 220, 157);
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.5;
+    font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+}
+
+/************ violetBackground All Work ************/
+
+#pagehomeclipboardImg
+{
+    top: 5%;
+    left: 48%;
+}
+#createText
+{
+    top:16%;
+    left: 55%;
+    color: rgb(106, 70, 118);
+    font-size: 25px;
+    font-weight: bold;
+}
+#alreadyText
+{
+    top:20%;
+    left: 55%;
+    color: rgb(61, 33, 67);
+    font-size: 14px;
+
+}
+.inputText
+{   top: 25%;
+    left: 54%;
+    width: 530px;
+    height:  550px;
+    background-color: rgb(210, 235, 228);
+}
+#nameInputText
+{
+    top: 0%;
+    width: 520px;
+    height:  50px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+    border-radius: 5px;
+    border-color: Transparent;
+    display: block;
+    background-color: rgb(75, 48, 81);
+}
+#companyInputText
+{
+    top: 15%;
+    width: 520px;
+    height:  50px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+    border-radius: 5px;
+    border-color: Transparent;
+    display: block;
+    background-color: rgb(75, 48, 81);
+}
+#emailInputText
+{
+    top: 30%;
+    width: 520px;
+    height:  50px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+    border-radius: 5px;
+    border-color: Transparent;
+    display: block;
+    background-color: rgb(75, 48, 81);
+}
+#urlInputText
+{
+    top: 45%;
+    width: 520px;
+    height:  50px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    border-radius: 5px;
+    border-color: Transparent;
+    display: block;
+    background-color: rgb(75, 48, 81);
+}
+#teamInputText
+{
+    top: 59%;
+    width: 520px;
+    height:  55px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    border-radius: 5px;
+    border-color: Transparent;
+    display: block;
+    color: white;
+    background-color: rgb(75, 48, 81);
+}
+#teamSelect
+{
+    color: rgb(92, 59, 92);
+    font-size: 20px;
+}
+#team
+{
+   top: 59%;
+}
+.submitButton
+{
+    top: 75%;
+    left: 4%;
+    width: 150px;
+    height: 45px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+    border-color: Transparent;
+    background-color: rgb(86, 138, 128);
+}
+.submitButton:hover
+{
+    background-color: rgb(95, 168, 128);
+}
+#ByText
+{
+    top: 74%;
+    left: 40%;
+    font-size:  13px;
+    color: rgb(61, 33, 67);
+
+}
+#signUpText
+{
+    top: 20%;
+    left: 5%;
+    font-weight: bold;
+    color:  rgb(182, 233, 208);
+    font-size: 18px;
+    line-height: 17px;
+    font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#tryDoneText
+{
+    top: 20.5%;
+    left: 5%;
+    font-size: 60px;
+    text-align: left;
+    color: white;
+    font-weight: 900;
+    line-height: 64px;
+    font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#unlimitedText
+{
+    left: 5%;
+    top: 41%;
+    color: rgb(182, 233, 208);
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.5;
+    font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+}
+
+/*************darkVioletBackground all work**************/
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width:5px;height: 5px;
+
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-mail
+{
+    background: rgb(117, 79, 126);
+    color: white;
+    top: 5%;
+    left: 84%;
+    text-align: center;
+}
+#handelText
+{
+    color: rgb(227, 201, 233);
+    font-weight: bold;
+    font-size: 25px;
+    top: 10%;
+    left: 5%;
+    font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+    text-decoration:none;
+}
+#handelText1
+{
+    color: rgb(117, 79, 126);
+    font-size: 15px;
+    top: 28%;
+    left: 5%;
+    text-decoration: none;
+}
+#emotionalText
+{
+    color: rgb(227, 201, 233);
+    font-weight: bold;
+    font-size: 25px;
+    top: 10%;
+    left: 26%;
+    font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+    text-decoration:none;
+}
+#emotionalText1
+{
+    color: rgb(117, 79, 126);
+    font-size: 15px;
+    top: 28%;
+    left: 26%;
+    text-decoration: none;
+}
+#reasonsText
+{
+    color: rgb(227, 201, 233);
+    font-weight: bold;
+    font-size: 25px;
+    top: 10%;
+    left: 45%;
+    font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+    text-decoration:none;
+}
+#reasonsText1
+{
+    color: rgb(117, 79, 126);
+    font-size: 15px;
+    top: 28%;
+    left: 45%;
+    text-decoration: none;
+}
+.divideLine
+{
+    background-color: rgb(117, 79, 126);
+    width: 1220px;
+    top: 50%;
+    left: 5%;
+    height: 1px;
+    opacity: 0.5;
+}
+.homeButtonLower
+{
+    top: 55%;
+    left: 5%;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(117, 79, 126);
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.featuresButtonLower
+{
+    top: 55%;
+    left: 10%;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(117, 79, 126);
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.supportButtonLower
+{
+    top: 55%;
+    left: 18%;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(117, 79, 126);
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.pricingButtonLower
+{
+    top: 55%;
+    left: 30.5%;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(117, 79, 126);
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.helpDocsButtonLower
+{
+    top: 55%;
+    left: 36%;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(117, 79, 126);
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.contactButtonLower
+{
+    top: 55%;
+    left: 43.5%;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(117, 79, 126);
+    background-color: Transparent;
+    border-color: Transparent;
+}
+.blogButtonLower
+{
+    top: 55%;
+    left: 50%;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(117, 79, 126);
+    background-color: Transparent;
+    border-color: Transparent;
+}
+#copyRight
+{
+    font-size: 12px;
+    color:rgb(117, 79, 126);
+    top: 65%;
+    left: 5%;
+}
+.getDoneDone *
+{
+    position: absolute;
+}
